@@ -65,9 +65,10 @@
 ---
 
 ### 📚 Latest Blog Post
-<!-- BLOG-POST-LIST:START -->
+<!-- blog baslangic -->
+- [Mobil Uygulama Güvenliği 101: Mod APK’lar, Araçlar ve Teknik Detaylar](https://guvenada.medium.com/mobil-uygulama-güvenliği-101-mod-apklar-araçlar-ve-teknik-detaylar-41e2357026c6)
 - [Mobil Uygulama Güvenliği: Tehditler ve Korunma Yöntemleri](https://guvenada.medium.com/mobil-uygulama-güvenliği-tehditler-ve-korunma-yöntemleri-243f3f3bf0d9)
-<!-- BLOG-POST-LIST:END -->
+<!-- blog bitis -->
 
 ---
 

@@ -4,7 +4,7 @@
 
 ---
 
-### 🛡️ Cyber Security Warrior | Python & C Developer | CTF Enthusiast
+### 🛡️ Mobile Application Security | OWASP MASVS | Web Security | Reverse Engineering | E-commerce Entrepreneur | Blog Writer
 
 <div align="center">
   <a href="https://www.linkedin.com/in/guvenada/">
@@ -42,6 +42,7 @@
 ### 🚀 Featured Projects
 
 [![EArsivPortal-PDF-indirici](https://github-readme-stats.vercel.app/api/pin/?username=guvenada&repo=EArsivPortal-PDF-indirici&theme=radical)](https://github.com/guvenada/EArsivPortal-PDF-indirici)
+[![TRUST](https://github-readme-stats.vercel.app/api/pin/?username=guvenada&repo=TRUST&theme=radical)](https://github.com/guvenada/TRUST)
 
 ---
 

@@ -23,7 +23,7 @@ Yüksek performanslı web uygulamaları geliştirmeye, karmaşık sistemleri oto
 - 🔭 Şu anda **ölçeklenebilir sistemler** ve **ileri düzey web güvenliği** üzerine çalışıyorum.
 - 🌱 Algoritmik optimizasyonlar ve yeni nesil arama motoru mimarileri (SEO) üzerine araştırmalar yapıyorum.
 - 💬 Bana **Full-Stack Geliştirme, Sistem Güvenliği ve Altyapı Otomasyonu** hakkında sorular sorabilirsiniz.
-- 📫 İletişim: **guven.ada2006@gmail.com**
+- 📫 İletişim: **adaguven@protonmail.com**
 
 ### 💻 Teknoloji Yığını
 
